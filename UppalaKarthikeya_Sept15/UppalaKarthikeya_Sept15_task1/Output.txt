@@ -1,0 +1,89 @@
+PS C:\Users\kup99\Downloads\Practice Questions\CPP_Practice\UppalaKarthikeya_Sept15\UppalaKarthikeya_Sept15_task1> g++ main.cpp FleetVehicle.cpp -o fleet
+>> .\fleet.exe
+>> 
+Vehicle ID 101 removed.
+Vehicle ID 102 removed.
+
+--- Fleet Menu ---
+1. Add/Update Vehicle
+2. Assign Driver
+3. Refuel Vehicle
+4. Update Status
+5. Show Vehicle Info
+6. Exit
+Choice: 1
+Select vehicle index (0-2): 0
+Enter ID, Fuel, Distance, Status(A/I), Available(1/0), Driver:
+100
+15.2
+55.2
+A
+1
+Hemu
+Vehicle ID 100 removed.
+
+--- Fleet Menu ---
+1. Add/Update Vehicle
+2. Assign Driver
+3. Refuel Vehicle
+4. Update Status
+5. Show Vehicle Info
+6. Exit
+Choice: 2
+Select vehicle index (0-2): 1
+Enter new driver: Karthik
+Driver Karthik assigned to vehicle 102
+
+--- Fleet Menu ---
+1. Add/Update Vehicle
+2. Assign Driver
+3. Refuel Vehicle
+4. Update Status
+5. Show Vehicle Info
+6. Exit
+Choice: 3
+Select vehicle index (0-2): 1
+Enter fuel to add: 20.5
+Vehicle 102 refueled. Current fuel: 28.5 L
+
+--- Fleet Menu ---
+1. Add/Update Vehicle
+2. Assign Driver
+3. Refuel Vehicle
+4. Update Status
+5. Show Vehicle Info
+6. Exit
+Choice: 4
+Select vehicle index (0-2): 2
+Status updated.
+
+--- Fleet Menu ---
+1. Add/Update Vehicle
+2. Assign Driver
+3. Refuel Vehicle
+4. Update Status
+5. Show Vehicle Info
+6. Exit
+Choice: 5
+Select vehicle index (0-2): 1
+
+--- Vehicle Info ---
+ID: 102
+Fuel: 28.5 L
+Distance: 300 km
+Status: Active
+Available: Yes
+Driver: Karthik
+
+--- Fleet Menu ---
+1. Add/Update Vehicle
+2. Assign Driver
+3. Refuel Vehicle
+4. Update Status
+5. Show Vehicle Info
+6. Exit
+Choice: 6
+Goodbye!
+Vehicle ID 100 removed.
+Vehicle ID 102 removed.
+Vehicle ID 0 removed.

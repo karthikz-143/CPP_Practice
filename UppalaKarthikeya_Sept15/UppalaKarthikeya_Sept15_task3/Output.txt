@@ -1,0 +1,75 @@
+--- Aerospace Component Menu ---
+1. Display All Components
+2. Simulate Usage
+3. Boost Efficiency
+4. Maintenance Check
+5. Search by ID
+6. Exit
+Enter choice: 1
+
+ID   Efficiency   Manufacturer       Type         Status
+----------------------------------------------------------
+101    92.5%     GE Aviation      Engine      Operational
+102    45%     Honeywell      Avionics      Failed
+0    100%     Unknown      Engine      Operational
+
+--- Aerospace Component Menu ---
+1. Display All Components
+2. Simulate Usage
+3. Boost Efficiency
+4. Maintenance Check
+5. Search by ID
+6. Exit
+Enter choice: 2
+Enter component index (0-2): 1
+Enter usage hours: 5
+
+--- Aerospace Component Menu ---
+1. Display All Components
+2. Simulate Usage
+3. Boost Efficiency
+4. Maintenance Check
+5. Search by ID
+6. Exit
+Enter choice: 3
+Enter component index (0-2): 1
+
+--- Aerospace Component Menu ---
+1. Display All Components
+2. Simulate Usage
+3. Boost Efficiency
+4. Maintenance Check
+5. Search by ID
+6. Exit
+Enter choice: 4
+Enter component index (0-2): 1
+Maintenance check for Component 102: Operational
+
+--- Aerospace Component Menu ---
+1. Display All Components
+2. Simulate Usage
+3. Boost Efficiency
+4. Maintenance Check
+5. Search by ID
+6. Exit
+Enter choice: 5
+Enter component ID: 101
+
+Component ID: 101
+Efficiency: 92.5%
+Manufacturer: GE Aviation
+Type: Engine
+Status: Operational
+
+--- Aerospace Component Menu ---
+1. Display All Components
+2. Simulate Usage
+3. Boost Efficiency
+4. Maintenance Check
+5. Search by ID
+6. Exit
+Enter choice: 6
+Exiting system.
+Component 0 destroyed.
+Component 102 destroyed.
+Component 101 destroyed.

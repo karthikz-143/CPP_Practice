@@ -1,0 +1,92 @@
+Book (ID 101) destroyed.
+Book (ID 102) destroyed.
+
+--- Library Menu ---
+1. Add/Update Book
+2. Mark as Reference
+3. Check Affordability
+4. Update Availability
+5. Show Book Details
+6. Show All Books
+7. Exit
+Enter your choice: 6
+Enter book index (0-2): 1
+
+--- Library Book List ---
+ID   Title                    Price     Rating  Status    Reference   Genre
+--------------------------------------------------------------------------------
+101  C++ Primer               299.99    4.5     Avail     No          Technology
+102  Design Patterns          150       3.8     Borrowed  Yes         Science
+0    Untitled                 0         0       Avail     No          Fiction
+
+--- Library Menu ---
+1. Add/Update Book
+2. Mark as Reference
+3. Check Affordability
+4. Update Availability
+5. Show Book Details
+6. Show All Books
+7. Exit
+Enter your choice: 5
+Enter book index (0-2): 1
+
+--- Book Details ---
+ID: 102
+Title: Design Patterns
+Price: $150.00
+Rating: 3.80/5
+Status: Borrowed
+Reference Only: Yes
+Genre: Science
+
+--- Library Menu ---
+1. Add/Update Book
+2. Mark as Reference
+3. Check Affordability
+4. Update Availability
+5. Show Book Details
+6. Show All Books
+7. Exit
+Enter your choice: 3
+Enter book index (0-2): 1
+Enter budget: $50
+Book is NOT affordable.
+
+--- Library Menu ---
+1. Add/Update Book
+2. Mark as Reference
+3. Check Affordability
+4. Update Availability
+5. Show Book Details
+6. Show All Books
+7. Exit
+Enter your choice: 4
+Enter book index (0-2): 1
+Borrowed? (1/0): 1
+Book 102 is now Borrowed.
+
+--- Library Menu ---
+1. Add/Update Book
+2. Mark as Reference
+3. Check Affordability
+4. Update Availability
+5. Show Book Details
+6. Show All Books
+7. Exit
+Enter your choice: 2
+Enter book index (0-2): 1
+Book 'Design Patterns' marked as Reference Only.
+
+--- Library Menu ---
+1. Add/Update Book
+2. Mark as Reference
+3. Check Affordability
+4. Update Availability
+5. Show Book Details
+6. Show All Books
+7. Exit
+Enter your choice: 7
+Goodbye!
+Book (ID 0) destroyed.
+Book (ID 102) destroyed.
+Book (ID 101) destroyed.
