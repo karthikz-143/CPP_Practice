@@ -1,0 +1,11 @@
+
+--- Lane Details ---
+Lane 1 | Curvature: 0.015
+Lane 2 | Curvature: 0.023
+
+--- Member Function ---
+Lane 2 has greater curvature.
+
+--- Global Function ---
+Comparing Lane 1 and Lane 2:
+Lane 2 has greater curvature.

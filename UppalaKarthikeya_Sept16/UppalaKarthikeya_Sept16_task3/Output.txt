@@ -1,0 +1,12 @@
+UppalaKarthikeya_Sept16_task3>.\Camera
+
+Camera Modes Configurations:
+Mode 1: 1920x1080
+Mode 2: 1280x2160
+Mode 3: 3840x2160
+
+Comparison using member function:
+Mode 2 has higher resolution than Mode 0
+
+Comparison using global function:
+Mode 2 has higher resolution than Mode 1

@@ -1,0 +1,16 @@
+\UppalaKarthikeya_Sept16_task2>.\object_distance
+
+--- Sensor Fusion (ADAS) ---
+
+Initial distances:
+Radar: 35.5, Camera: 34.8
+
+--- adjustDistancesByValue ---
+(adjustDistancesByValue) Copy modified: 40.5, 39.8
+Radar: 35.5, Camera: 34.8
+
+--- adjustDistancesByReference ---
+(adjustDistancesByReference) Object modified: 40.5, 39.8
+Radar: 40.5, Camera: 39.8
+
+Object deleted. Program finished.
