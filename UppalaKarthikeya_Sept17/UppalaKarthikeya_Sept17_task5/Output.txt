@@ -1,0 +1,11 @@
+.\ParcelAnalyzer
+
+Classification: Light
+Classification: Medium
+Classification: Heavy
+Classification: Light
+Classification: Medium
+Classification: Heavy
+Classification: Light
+Classification: Medium
+Classification: Heavy

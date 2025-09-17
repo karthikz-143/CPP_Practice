@@ -1,0 +1,15 @@
+C:\Users\kup99\Downloads\Practice Questions\CPP_Practice\UppalaKarthikeya_Sept17\UppalaKarthikeya_Sept17_task3>.\FCW
+
+Before update:
+Obj1 -> ID: 1, Speed: 50, Distance: 100
+Obj2 -> ID: 2, Speed: 70, Distance: 200
+
+After updateValuesByValue (obj1 updated from obj2):
+Obj1 -> ID: 1, Speed: 70, Distance: 200
+
+After updateValuesByReference (obj2 updated from obj1):
+Obj2 -> ID: 2, Speed: 70, Distance: 200
+
+--- Testing Global Functions ---
+Obj1 -> ID: 1, Speed: 70, Distance: 200
+Obj2 -> ID: 2, Speed: 70, Distance: 200

@@ -1,0 +1,15 @@
+.\Pedastrian.exe
+
+--- All Pedestrians ---
+Pedestrian ID: 101, Distance: 12.4 meters
+Pedestrian ID: 102, Distance: 8.7 meters
+Pedestrian ID: 103, Distance: 15.1 meters
+Closest Pedestrian Information:
+Pedestrian ID: 102, Distance: 8.7 meters
+
+Updating Pedestrian 101 distance to 5.0...
+Pedestrian ID: 101, Distance: 5.0 meters
+
+--- After Update ---
+Closest Pedestrian Information:
+Pedestrian ID: 101, Distance: 5.0 meters

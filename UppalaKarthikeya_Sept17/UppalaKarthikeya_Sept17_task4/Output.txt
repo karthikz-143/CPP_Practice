@@ -1,0 +1,6 @@
+.\SensorMonitor
+
+Sensor ID: 801, Type: LIDAR, Max Temperature: 36.1
+Sensor ID: 802, Type: RADAR, Max Temperature: 39.3
+Sensor ID: 803, Type: CAMERA, Max Temperature: 31
+Global Max Temperature: 39.3

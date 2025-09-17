@@ -1,0 +1,13 @@
+.\Track
+
+--- All Vehicles ---
+ID: 501, Speed: 80 km/h, Distance: 60 m
+ID: 502, Speed: 78 km/h, Distance: 45 m
+ID: 503, Speed: 85 km/h, Distance: 100 m
+ID: 504, Speed: 76 km/h, Distance: 40 m
+
+--- Lead Vehicle ---
+ID: 504, Speed: 76 km/h, Distance: 40 m
+
+Min Recorded Distance: 40 m
+Total Vehicles Created: 4
