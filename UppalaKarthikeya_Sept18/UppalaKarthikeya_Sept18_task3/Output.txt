@@ -1,0 +1,29 @@
+Satellite 102 is at higher altitude.
+
+Satellite ID: 101
+Altitude: 550 km
+Signal Strengths: 86.35 88.22 86.9
+Status: Operational
+Average Signal Strength: 87.1567
+
+Satellite ID: 102
+Altitude: 600 km
+Signal Strengths: 90 76.5
+Status: Maintenance
+Average Signal Strength: 83.25
+
+Satellite ID: 101
+Altitude: 550 km
+Signal Strengths: 86.35 88.22 86.9
+Status: Operational
+Average Signal Strength: 87.1567
+
+After status update:
+Satellite ID: 102
+Altitude: 600 km
+Signal Strengths: 90 76.5
+Status: Maintenance
+Average Signal Strength: 83.25
+
+Active Satellites: 3
+Active Satellites: 0

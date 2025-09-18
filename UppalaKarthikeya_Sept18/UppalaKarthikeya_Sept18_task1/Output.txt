@@ -1,0 +1,11 @@
+ Vehicle 1 :
+Wheel Speeds: [55.5, 56.6, 57.2, 55.9]
+Engine Temps: [90.5, 88.9]
+Avg Wheel Speed: 56.3, Max Engine Temp: 90.5
+
+ Vehicle 2 :
+Wheel Speeds: [50, 51.2, 49.8, 50.4]
+Engine Temps: [92, 89.5]
+Avg Wheel Speed: 50.35, Max Engine Temp: 92
+Vehicle 1 wins
+Vehicle 1 wins
