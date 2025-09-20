@@ -1,0 +1,25 @@
+Initial Cars: 0
+VIN: , Make: , Model: , Price: 0, Services: 0, Damage Codes: 0
+VIN: 1HGCM, Make: Honda, Model: Accord, Price: 20000, Services: 2, Damage Codes: 2
+Date: 2022-03-15, Mileage: 15000, Description: Oil change
+Date: 2023-01-10, Mileage: 25000, Description: Brake pads replacement
+Damage Code: 101
+Damage Code: 205
+VIN: 1HGCM, Make: Honda, Model: Accord, Price: 20000, Services: 2, Damage Codes: 2
+Date: 2022-03-15, Mileage: 15000, Description: Oil change
+Date: 2023-01-10, Mileage: 25000, Description: Brake pads replacement
+Damage Code: 101
+Damage Code: 205
+VIN: 1HGCM, Make: Honda, Model: Accord, Price: 20000, Services: 2, Damage Codes: 2
+Date: 2022-03-15, Mileage: 15000, Description: Oil change
+Date: 2023-01-10, Mileage: 25000, Description: Brake pads replacement
+Damage Code: 101
+Damage Code: 205
+VIN: JH4KA, Make: Acura, Model: TLX, Price: 27999.5, Services: 0, Damage Codes: 0
+VIN: 5YJ3E, Make: Tesla, Model: Model 3, Price: 39999, Services: 0, Damage Codes: 0
+VIN: WBA4, Make: BMW, Model: 3 Series, Price: 35000, Services: 0, Damage Codes: 0
+Average Price: 34332.8
+Most Expensive: 5YJ3E
+Found Tesla Price: 39999
+Cars with damage code 101: 0
+Final Cars: 4
