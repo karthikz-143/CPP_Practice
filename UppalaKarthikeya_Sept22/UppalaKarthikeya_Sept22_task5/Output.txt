@@ -1,0 +1,28 @@
+Enter first name: Uppala
+Enter last name: Karthikeya
+Enter gender: Male
+Enter birth month (1-12): 6
+Enter birth day (1-31): 17
+Enter birth year: 2004
+Enter height (in inches): 64.9
+Enter weight (in pounds): 127.8
+
+--- Health Profile ---
+Name: Uppala Karthikeya
+Gender: Male
+Date of Birth: 6/17/2004
+Height: 64.9 inches
+Weight: 127.8 pounds
+Enter current month (1-12): 9
+Enter current day (1-31): 22
+Enter current year: 2025
+Age: 21 years
+BMI: 21.3303
+Maximum Heart Rate: 199 bpm
+Target Heart Rate Range: 99 - 169 bpm
+
+--- BMI VALUES ---
+Underweight: less than 18.5
+Normal:      18.5 - 24.9
+Overweight:  25 - 29.9
+Obese:       30 or greater

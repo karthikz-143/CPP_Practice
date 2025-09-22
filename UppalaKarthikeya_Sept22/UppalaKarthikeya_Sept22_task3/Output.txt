@@ -1,0 +1,8 @@
+
+Invoice 1: 1001 - Hammer
+Quantity: 5, Price per item: $20
+Total: $100
+
+Invoice 2: 1002 - Nails
+Quantity: 0, Price per item: $10
+Total: $0

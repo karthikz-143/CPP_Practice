@@ -1,0 +1,13 @@
+Error: Initial balance was invalid. Balance set to 0.
+account1 balance: 50
+account2 balance: 0
+
+Adding 25 to account1 balance.
+account1 balance: 75
+
+Withdrawing 30 from account1 balance.
+account1 balance: 45
+
+Attempting to withdraw 100 from account1 balance.
+Debit amount exceeded account balance.
+account1 balance: 45
