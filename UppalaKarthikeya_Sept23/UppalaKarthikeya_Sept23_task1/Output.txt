@@ -1,0 +1,27 @@
+Enter 20 numbers between 10 and 100 :
+Number 1: 25
+Number 2: 11
+Number 3: 24
+Number 4: 21
+Number 5: 65
+Number 6: 23
+Number 7: 11
+Duplicate ignored.
+Number 8: 88
+Number 9: 44
+Number 10: 55
+Number 11: 55
+Duplicate ignored.
+Number 12: 99
+Number 13: 41
+Number 14: 25
+Duplicate ignored.
+Number 15: 13
+Number 16: 28
+Number 17: 64
+Number 18: 76
+Number 19: 19
+Number 20: 20
+
+Unique numbers entered are:
+25 11 24 21 65 23 88 44 55 99 41 13 28 64 76 19 20

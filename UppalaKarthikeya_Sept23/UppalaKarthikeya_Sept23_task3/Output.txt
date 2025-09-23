@@ -1,0 +1,77 @@
+Welcome to Airline Reservation System
+
+Please type 1 for First Class or 2 for Economy: 2
+
+--- Boarding Pass ---
+Seat Number: 6
+Class: Economy
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 1
+
+--- Boarding Pass ---
+Seat Number: 1
+Class: First Class
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 1
+
+--- Boarding Pass ---
+Seat Number: 2
+Class: First Class
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 3
+Invalid choice.
+
+Please type 1 for First Class or 2 for Economy: 2
+
+--- Boarding Pass ---
+Seat Number: 7
+Class: Economy
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 2
+
+--- Boarding Pass ---
+Seat Number: 8
+Class: Economy
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 1
+
+--- Boarding Pass ---
+Seat Number: 3
+Class: First Class
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 1
+
+--- Boarding Pass ---
+Seat Number: 4
+Class: First Class
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 2
+
+--- Boarding Pass ---
+Seat Number: 9
+Class: Economy
+---------------------
+
+
+Please type 1 for First Class or 2 for Economy: 1
+
+--- Boarding Pass ---
+Seat Number: 5
+Class: First Class
+---------------------
+
+All seats are booked. Next flight leaves in 3 hours.

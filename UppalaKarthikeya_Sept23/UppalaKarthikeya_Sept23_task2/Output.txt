@@ -1,0 +1,30 @@
+Craps Statistics after 1000 games:
+
+Wins on roll 1: 223 | Losses on roll 1: 94
+Wins on roll 2: 86 | Losses on roll 2: 95
+Wins on roll 3: 64 | Losses on roll 3: 74
+Wins on roll 4: 54 | Losses on roll 4: 58
+Wins on roll 5: 30 | Losses on roll 5: 44
+Wins on roll 6: 21 | Losses on roll 6: 23
+Wins on roll 7: 15 | Losses on roll 7: 24
+Wins on roll 8: 13 | Losses on roll 8: 15
+Wins on roll 9: 12 | Losses on roll 9: 11
+Wins on roll 10: 3 | Losses on roll 10: 8
+Wins on roll 11: 5 | Losses on roll 11: 8
+Wins on roll 12: 2 | Losses on roll 12: 3
+Wins on roll 13: 2 | Losses on roll 13: 2
+Wins on roll 14: 1 | Losses on roll 14: 0
+Wins on roll 15: 0 | Losses on roll 15: 0
+Wins on roll 16: 1 | Losses on roll 16: 0
+Wins on roll 17: 0 | Losses on roll 17: 2
+Wins on roll 18: 1 | Losses on roll 18: 1
+Wins on roll 19: 0 | Losses on roll 19: 0
+Wins on roll 20: 1 | Losses on roll 20: 4
+Wins after 20th roll: 1 | Losses after 20th roll: 4
+
+Total Wins: 534
+Total Losses: 466
+Chance of Winning: 53.4%
+Average Game Length: 3.472 rolls
+Observation: Chances of winning do NOT improve with longer games.
+Craps is considered fair because odds are close to 50-50.

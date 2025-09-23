@@ -1,0 +1,2 @@
+Original Array: 97 3 100 56 23 45 12 8
+Sorted Array:   3 8 12 23 45 56 97 100
