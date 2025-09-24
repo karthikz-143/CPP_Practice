@@ -1,0 +1,20 @@
+Case A: Incrementing into the next minute
+10:59:58 AM
+10:59:59 AM
+11:00:00 AM
+11:00:01 AM
+11:00:02 AM
+
+Case B: Incrementing into the next hour
+1:59:58 AM
+1:59:59 AM
+2:00:00 AM
+2:00:01 AM
+2:00:02 AM
+
+Case C: Incrementing into the next day
+11:59:58 PM
+11:59:59 PM
+12:00:00 AM
+12:00:01 AM
+12:00:02 AM

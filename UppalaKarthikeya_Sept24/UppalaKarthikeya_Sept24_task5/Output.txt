@@ -1,0 +1,72 @@
+Welcome to Tic-Tac-Toe!
+
+   |   |
+---+---+---
+   |   |
+---+---+---
+   |   |
+
+Player 1 (X) - Enter row and column (0-2): 1
+2
+
+   |   |
+---+---+---
+   |   | X
+---+---+---
+   |   |
+
+Player 2 (O) - Enter row and column (0-2): 3
+2
+Invalid move. Try again.
+Player 2 (O) - Enter row and column (0-2): 2
+1
+
+   |   |
+---+---+---
+   |   | X
+---+---+---
+   | O |
+
+Player 1 (X) - Enter row and column (0-2): 0
+1
+
+   | X |
+---+---+---
+   |   | X
+---+---+---
+   | O |
+
+Player 2 (O) - Enter row and column (0-2): 1
+2
+Invalid move. Try again.
+Player 2 (O) - Enter row and column (0-2): 2
+1
+Invalid move. Try again.
+Player 2 (O) - Enter row and column (0-2): 2
+0
+
+   | X |
+---+---+---
+   |   | X
+---+---+---
+ O | O |
+
+Player 1 (X) - Enter row and column (0-2): 0
+0
+
+ X | X |
+---+---+---
+   |   | X
+---+---+---
+ O | O |
+
+Player 2 (O) - Enter row and column (0-2): 2
+2
+
+ X | X |
+---+---+---
+   |   | X
+---+---+---
+ O | O | O
+
+Player 2 wins!
