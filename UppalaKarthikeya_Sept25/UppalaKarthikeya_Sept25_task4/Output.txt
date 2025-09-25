@@ -1,0 +1,17 @@
+===== Air Traffic Control Simulator =====
+
+Initial Flight Statuses:
+Airline: Delta | Flight: DL123 | Model: Boeing 737 | From: ATL | To: LAX | Departure: 08:00 | Arrival: 11:00 | Altitude: 0.000000 ft | Speed: 0.000000 knots | Direction: North | Status: Parked
+Airline: United | Flight: UA456 | Model: Airbus A320 | From: ORD | To: MIA | Departure: 09:30 | Arrival: 13:00 | Altitude: 0.000000 ft | Speed: 0.000000 knots | Direction: East | Status: Waiting for Takeoff
+Airline: American | Flight: AA789 | Model: Boeing 777 | From: JFK | To: LHR | Departure: 18:00 | Arrival: 06:00 | Altitude: 35000.000000 ft | Speed: 550.000000 knots | Direction: East | Status: Cruising
+
+=== ATC Commands ===
+United UA456 changing altitude from 0 to 10000 feet.
+United UA456 reducing speed from 0 to 250 knots.
+American AA789 changing altitude from 35000 to 28000 feet.
+American AA789 beginning landing approach at destination LHR.
+
+Updated Flight Statuses:
+Airline: Delta | Flight: DL123 | Model: Boeing 737 | From: ATL | To: LAX | Departure: 08:00 | Arrival: 11:00 | Altitude: 0.000000 ft | Speed: 0.000000 knots | Direction: North | Status: Parked
+Airline: United | Flight: UA456 | Model: Airbus A320 | From: ORD | To: MIA | Departure: 09:30 | Arrival: 13:00 | Altitude: 10000.000000 ft | Speed: 250.000000 knots | Direction: East | Status: Changing Altitude
+Airline: American | Flight: AA789 | Model: Boeing 777 | From: JFK | To: LHR | Departure: 18:00 | Arrival: 06:00 | Altitude: 28000.000000 ft | Speed: 550.000000 knots | Direction: East | Status: Descending

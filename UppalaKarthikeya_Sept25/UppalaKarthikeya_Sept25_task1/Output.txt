@@ -1,0 +1,7 @@
+Balances after applying 3% annual interest (1 month):
+Current Balance: $2005
+Current Balance: $3007.5
+
+Balances after applying 4% annual interest (next month):
+Current Balance: $2011.68
+Current Balance: $3017.53

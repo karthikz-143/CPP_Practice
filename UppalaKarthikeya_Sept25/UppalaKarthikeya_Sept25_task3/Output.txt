@@ -1,0 +1,17 @@
+Player 1 Hand:
+Two of Clubs
+Four of Spades
+Nine of Hearts
+Ace of Diamonds
+Nine of Diamonds
+
+Player 2 Hand:
+Five of Spades
+Six of Hearts
+Six of Spades
+Two of Spades
+Two of Diamonds
+
+Player 1 has: One Pair
+Player 2 has: Two Pair
+Winner: Player 2
