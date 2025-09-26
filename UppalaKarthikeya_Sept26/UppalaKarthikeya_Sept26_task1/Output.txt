@@ -1,0 +1,40 @@
+
+Enter 15 integers for a 3x5 array:
+11
+5
+4
+8
+12
+15
+3
+2
+9
+10
+1
+15
+20
+27
+18
+
+Array a:
+  11   5   4   8  12
+  15   3   2   9  10
+   1  15  20  27  18
+
+Array a after modifying element (1,3):
+  11   5   4   8  12
+  15   3   2  99  10
+   1  15  20  27  18
+
+Array b (copy of a):
+  11   5   4   8  12
+  15   3   2  99  10
+   1  15  20  27  18
+
+Comparing arrays: Equal
+
+Array b after modifying (2,4):
+  11   5   4   8  12
+  15   3   2  99  10
+   1  15  20  27  -7
+Comparing arrays again: Not Equal
