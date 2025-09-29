@@ -1,0 +1,5 @@
+Before exchange: a = 3.5, b = 7.9
+After exchange:  a = 7.9, b = 3.5
+evaluate(3, polynomial) = 16
+Vowel array (method 1): AEIOU
+Vowel array (method 2): AEIOU

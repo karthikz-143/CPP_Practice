@@ -1,0 +1,18 @@
+Array elements (Array Subscript Notation):
+0.0 1.1 2.2 3.3 4.4 5.5 6.6 7.7 8.8 9.9
+Array elements (Pointer/Offset with pointer):
+0.0 1.1 2.2 3.3 4.4 5.5 6.6 7.7 8.8 9.9
+Array elements (Pointer/Offset with array name):
+0.0 1.1 2.2 3.3 4.4 5.5 6.6 7.7 8.8 9.9
+Array elements (Pointer/Subscript Notation):
+0.0 1.1 2.2 3.3 4.4 5.5 6.6 7.7 8.8 9.9
+Fourth element access in different ways:
+Array subscript: 3.3
+Pointer/Offset with array name: 3.3
+Pointer subscript with nPtr: 3.3
+Pointer/Offset with nPtr: 3.3
+Pointer arithmetic demonstration:
+Address referenced by nPtr + 8: 0x32025ffc00
+Value at nPtr + 8: 8.8
+Address referenced after nPtr -= 4: 0x32025ffbc8
+Value at that address: 1.1

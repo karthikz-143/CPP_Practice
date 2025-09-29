@@ -1,0 +1,5 @@
+Value pointed to by fPtr: 7.3
+Value of number2: 7.3
+Address of number1: 0x6a133ff740
+Address stored in fPtr: 0x6a133ff740
+Is this same as &number1? Yes.
