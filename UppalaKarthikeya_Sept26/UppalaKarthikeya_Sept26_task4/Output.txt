@@ -1,0 +1,14 @@
+R1 = 3/4
+R2 = 5/6
+
+Addition: 19/12
+Subtraction: -1/12
+Multiplication: 5/8
+Division: 9/10
+
+R1 == R2 ? No
+R1 != R2 ? Yes
+R1 < R2 ? Yes
+R1 > R2 ? No
+R1 <= R2 ? Yes
+R1 >= R2 ? No
