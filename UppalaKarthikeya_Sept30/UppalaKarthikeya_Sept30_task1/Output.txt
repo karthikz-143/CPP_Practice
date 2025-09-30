@@ -1,0 +1,15 @@
+Array elements using subscript notation: 2 4 6 8 10
+Array elements using pointer/offset notation: 2 4 6 8 10
+Array elements using array name as pointer: 2 4 6 8 10
+Array elements using pointer subscript notation: 2 4 6 8 10
+Accessing 5th element of array in multiple ways:
+values[4] = 10
+*(values + 4) = 10
+vPtr[4] = 10
+*(vPtr + 4) = 10
+
+--- Addressing Demonstration ---
+Address referenced by vPtr + 3: 0x7774fff79c
+Value at that address: 8
+After vPtr -= 4, address referenced: 0x7774fff790
+Value stored at that address: 2

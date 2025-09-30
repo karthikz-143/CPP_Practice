@@ -1,0 +1,2 @@
+Original array: 37 2 6 4 89 8 10 12 68 45
+Sorted array: 2 4 6 8 10 12 37 45 68 89
