@@ -1,0 +1,6 @@
+ScooterID: SCT101, Charge Cycles: 300, Capacity: 4 kWh, Health: 80%, Active: Yes
+ScooterID: SCT202, Charge Cycles: 150, Capacity: 3.5 kWh, Health: 70%, Active: Yes
+s1 has better battery health.
+After 50 charge cycles, s1: ScooterID: SCT101, Charge Cycles: 350, Capacity: 3.5 kWh, Health: 70%, Active: Yes
+s2 is active.
+s3 copied from s1: ScooterID: SCT101, Charge Cycles: 350, Capacity: 3.5 kWh, Health: 70%, Active: Yes

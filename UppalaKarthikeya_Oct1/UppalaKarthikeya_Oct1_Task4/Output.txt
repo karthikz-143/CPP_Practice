@@ -1,0 +1,21 @@
+
+Freshman - Name: Amit, ID: UG101, Dept: Computer Science, Year: 1, Credits: 15
+Level: Freshman
+
+HonorsSenior - Senior - Name: Neha, ID: UG401, Dept: Physics, Year: 4, Credits: 120, Thesis: Quantum Entanglement Thesis
+Level: HonorsSenior
+
+ExchangeSenior - Senior - Name: Luca, ID: UG402, Dept: Mechanical, Year: 4, Credits: 110, Home University: Politecnico di Milano
+Level: ExchangeSenior
+
+ThesisMastersStudent - MastersStudent - GraduateStudent - Name: Priya, ID: GR201, Dept: Electrical, Advisor: Dr. Rao, Thesis: Smart Grid Optimization
+Level: ThesisMastersStudent
+
+NonThesisMastersStudent - MastersStudent - GraduateStudent - Name: Raj, ID: GR202, Dept: Civil, Advisor: Dr. Mehta, Project: Bridge Load Simulation
+Level: NonThesisMastersStudent
+
+PhDCandidate - DoctoralStudent - GraduateStudent - Name: Sneha, ID: GR301, Dept: Biotech, Advisor: Dr. Kapoor, Dissertation: Gene Editing Ethics, Years: 3
+Level: PhDCandidate
+
+PostDocFellow - GraduateStudent - Name: Dr. Tanmay, ID: GR401, Dept: AI Research, Advisor: Dr. Bose, Research Grant: DARPA Grant
+Level: PostDocFellow

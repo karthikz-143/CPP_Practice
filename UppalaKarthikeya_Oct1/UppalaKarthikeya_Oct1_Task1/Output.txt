@@ -1,0 +1,9 @@
+Model: Prius, Electric Km: 120.5, Gasoline Km: 80, Gasoline Used: 4.5, Efficiency: 44.5556 km/L
+Model: Volt, Electric Km: 100, Gasoline Km: 90, Gasoline Used: 5, Efficiency: 38 km/L
+Combined Vehicle: Model: Prius-Volt, Electric Km: 220.5, Gasoline Km: 170, Gasoline Used: 9.5, Efficiency: 41.1053 km/L
+Vehicles have different efficiency.
+After increment, v1: Model: Prius, Electric Km: 120.5, Gasoline Km: 80, Gasoline Used: 4.5, Efficiency: 44.5556 km/L
+v1 first trip distance: 10 km
+Total distance of v1: 210 km
+Efficiency of v2: 38 km/L
+Copied v3 from v1: Model: Prius, Electric Km: 120.5, Gasoline Km: 80, Gasoline Used: 4.5, Efficiency: 44.5556 km/L
