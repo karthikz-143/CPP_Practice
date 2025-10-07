@@ -1,0 +1,6 @@
+Commission Employee: Karthikeya Uppala
+SSN: 123-45-6789
+Gross Sales: 5000
+Commission Rate: 0.06
+Base Salary: 300
+Earnings: 600
