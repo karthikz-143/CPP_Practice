@@ -1,0 +1,14 @@
+ Base Package:
+Sender: Alice, Boston, MA (02118)
+Recipient: Bob, Chicago, IL (60616)
+Cost: $5
+
+ TwoDay Package:
+Sender: Charlie, Dallas, TX (75001)
+Recipient: Diana, Seattle, WA (98101)
+Cost: $7
+
+ Overnight Package:
+Sender: Eve, Miami, FL (33101)
+Recipient: Frank, Denver, CO (80202)
+Cost: $7.5
