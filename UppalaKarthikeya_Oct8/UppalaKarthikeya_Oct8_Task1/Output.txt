@@ -1,0 +1,7 @@
+--- Diagnostic Report ---
+Sensor: EngineTemp | Value: 105 | Severity: High
+Sensor: OilPressure | Value: 20 | Severity: Medium
+Sensor: BrakeFluidLevel | Value: 5 | Severity: Critical
+Sensor: BatteryVoltage | Value: 12.5 | Severity: Low
+
+Number of High or Critical severity readings: 2

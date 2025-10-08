@@ -1,0 +1,25 @@
+--- All Sensor Readings ---
+Sensor: EngineTemp | Value: 105 | Severity: High
+Sensor: OilPressure | Value: 20 | Severity: Medium
+Sensor: BrakeFluidLevel | Value: 5 | Severity: Critical
+Sensor: BatteryVoltage | Value: 12.5 | Severity: Low
+Sensor: CoolantLevel | Value: 40 | Severity: Medium
+
+--- Severity Distribution ---
+Low: 1
+Medium: 2
+High: 1
+Critical: 1
+
+--- Readings Sorted by Severity (Descending) ---
+Sensor: BrakeFluidLevel | Value: 5 | Severity: Critical
+Sensor: EngineTemp | Value: 105 | Severity: High
+Sensor: OilPressure | Value: 20 | Severity: Medium
+Sensor: CoolantLevel | Value: 40 | Severity: Medium
+Sensor: BatteryVoltage | Value: 12.5 | Severity: Low
+
+--- Critical Readings ---
+Sensor: BrakeFluidLevel | Value: 5 | Severity: Critical
+
+--- Lookup: BrakeFluidLevel ---
+Sensor: BrakeFluidLevel | Value: 5 | Severity: Critical

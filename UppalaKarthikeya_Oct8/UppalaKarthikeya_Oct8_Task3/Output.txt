@@ -1,0 +1,15 @@
+
+--- All Subject Scores ---
+Subject: Math | Score: 92 | Grade: Distinction
+Subject: Physics | Score: 78 | Grade: Merit
+Subject: Chemistry | Score: 65 | Grade: Pass
+Subject: History | Score: 45 | Grade: Fail
+Subject: English | Score: 88 | Grade: Distinction
+
+Average Score: 73.6
+Number of Distinction subjects: 2
+
+--- Top Scores (Merit & Distinction) ---
+Subject: Math | Score: 92 | Grade: Distinction
+Subject: Physics | Score: 78 | Grade: Merit
+Subject: English | Score: 88 | Grade: Distinction
